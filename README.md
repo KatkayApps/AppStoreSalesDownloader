@@ -27,8 +27,11 @@ For example:
 
 This is an alpha version of this script. This is the best I could do because I am not strong on Bash. If you want to improve this, please be my guest.
 
-
-
+>
+> 
+> 
+> 
+> 
 > Copyright (C) 2017 by Magno Urbano (www.katkay.com)
 > Distributed under the GNU General Public License, version 3.0.
 > We give no warranties and cannot be liable for any damage on your system
