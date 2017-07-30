@@ -1,6 +1,6 @@
 # App Store Sales Reports Downloader
 
-This is a Bash script to download sales reports from the App Store.
+This is a Bash script to download sales reports from the App Store from a range of dates.
 
 Before using this script, you have to follow these steps:
 
