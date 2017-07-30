@@ -25,4 +25,4 @@ For example:
 > will download all sales report from July 1, 2017 to July 30, 2017
 
 
-This is an alpha version of this script. I am not strong on Bash. If you want to improve this, please be my guest.
+This is an alpha version of this script. This is the best I could do because I am not strong on Bash. If you want to improve this, please be my guest.
