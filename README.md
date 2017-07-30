@@ -6,7 +6,7 @@ Before using this script, you have to follow these steps:
 
 1. Create a directory using terminal
 2. Download `Reporter.jar` from Apple and store it inside this new directory
-3. Configura `Reporter.properties` according to Apple instructions
+3. Configure `Reporter.properties` according to Apple instructions
 4. Download this script, `sales.sh` to this same directory.
 
 To use this script, type this from terminal:
