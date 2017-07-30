@@ -33,6 +33,10 @@ This is an alpha version of this script. This is the best I could do because I a
 > 
 > 
 > Copyright (C) 2017 by Magno Urbano (www.katkay.com)
+
 > Distributed under the GNU General Public License, version 3.0.
+
 > We give no warranties and cannot be liable for any damage on your system
+
 > If you use this you will be using this at your own risk
+
